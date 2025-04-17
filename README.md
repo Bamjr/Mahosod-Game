@@ -6,6 +6,11 @@
 
 In Mahosod, players embark on a journey filled with compelling characters, meaningful choices, and a world that reacts to their decisions. The game emphasizes narrative depth, allowing players to experience a tale that unfolds based on their actions.
 
+![Screenshot 2025-04-17 172712](https://github.com/user-attachments/assets/9eb6ba75-b660-4408-aff0-aac9f26dae9a)
+![Screenshot 2025-04-17 172818](https://github.com/user-attachments/assets/cb763295-1458-405b-90d8-0b468dffe54c)
+
+
+
 ## 🛠 Built With
 
 - [RPG maker mv](https://store.steampowered.com/app/363890/RPG_Maker_MV/)
