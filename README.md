@@ -18,7 +18,7 @@ In Mahosod, players embark on a journey filled with compelling characters, meani
 ## 🎮 Play the Game
 
 > 🚧 The game was just demo
-> ✅ you can play by download the zip file
+> ✅ you can play by download the zip file and play via RPG maker mv
 
 ## ✨ Features
 
